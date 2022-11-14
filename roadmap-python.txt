@@ -1,0 +1,40 @@
+[Basics]
+- Interpreter,
+- Basic Terms
+	- Expression,
+	- Statement,
+	- Comment,
+	- Variable, 
+	- Constant,
+- Primitive Types,
+	- Numbers,
+	- String,
+	- Boolean,
+- Type Casting,
+- Operators, simbol khusus yang berfungsi untuk menjalankan suatu operasi tertentu
+	- Arithemetics, operator yang digunakan untuk menghitung operasi matematika
+	- Assignment, operator yang berfungsi untuk memberikan nilai ke dalam sebuah variabel.
+	- Relational, operator yang bertugas untuk membandingkan antar dua operand dan mengembalikan nilai true/false
+	- Logical, operator yang bertugas untuk membandingkan antar dua operand dan mengembalikan nilai true/false
+	- Identity, untuk mengetahui apakah dua buah variabel memiliki nilai yang sama dan posisi yang sama di dalam memori.
+	- Bitwise,
+- Operand, nilai yang dioperasikan oleh operator
+	- Binary,
+	- Unary,
+	- Ternary,
+- Control Flow
+	- If Else, 
+	- Switch Case, 
+	- While Loop, perulangan yang bersifat indefinite alias tidak pasti, atau bahkan tidak terbatas
+	- For Loop, perulangan yang terhitung.
+	- Break, untuk interupsi (memberhentikan paksa) sebuah perulangan.
+	- Continue, untuk melewati iterasi yang sedang berjalan ke iterasi selanjutnya.
+- Collection Types, tipe data yang digunakan untuk menghimpun kumpulan data, atau data yang berjumlah lebih dari satu.
+	- Feature: declare, call, slice, modify, append, copy, pop
+	- List, bersifat ordered, changeable, sequences.
+	- Tuple, bersifat ordered, constant, sequences.
+	- Set, bersifat unordered, constant, unique.
+	- Dictionary, bersifat unordered, changeable, unique, key-value
+- Function, kumpulan perintah yang dikelompokkan menjadi satu kesatuan untuk kemudian bisa dipanggil atau digunakan berkali-kali.
+- Argument/Parameter, nilai/variabel yang dilemparkan ke dalam fungsi untuk diproses lebih lanjut
+
