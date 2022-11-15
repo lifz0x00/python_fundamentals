@@ -1,6 +1,4 @@
-'''
-for is counted loop
-'''
+# for (counted loop)
 
 # for-in-range (start(0), finish(<5))
 for i in range(5):
@@ -19,4 +17,3 @@ companies = ["Facebook", "Apple", "Amazon", "Netflix", "Google"]
 for company in companies:
    print(f"{company}", end = " ")
 print()
-print("---")
