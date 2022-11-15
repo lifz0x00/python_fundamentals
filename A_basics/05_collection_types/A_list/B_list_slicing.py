@@ -1,8 +1,10 @@
 '''
+slicing   = a technique for cutting values ​​in a list
 index     = 0, 1, 2, 3
 elements  = 1, 2, 3, 4
 negative  = elements - index
 '''
+# list [changeable]
 fruits = ["apple", "banana", "cherry", "durian"]
 print(f"{fruits}")
 

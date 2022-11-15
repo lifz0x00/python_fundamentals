@@ -1,7 +1,10 @@
-# list
+'''
+list: ordered, changeable
+'''
+
+# list [changeable]
 fruits = ["apple", "banana", "cherry", "durian"]
 print(f"{fruits}")
-
 
 # list index
 print("---")
