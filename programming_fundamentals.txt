@@ -1,0 +1,33 @@
+Tiga konsep pemrograman:
+1) sequence; serangkaian tindakan yang diselesaikan secara berurutan;
+2) selectkon;  mengajukan pertanyaan untuk mengetahui aksi mana yang harus diambil selanjutnya;
+3) loop; mengulang pertanyaan yang sama berulang kembali, hingga aksi tertentu selesai;  
+
+variable vs constant?
+* variable: nilai dari suatu variabel dapat diubah setelah dideklarasikan (mutable)
+* constant: nilai dari suatu variabel tidak dapat diubah setelah dideklarasikan (immutable)
+
+primitive type vs composite type
+* primitive type: tipe data yang tidak memiliki method didalamnya (ex: angka, karakter, boolean) 
+* composite type: tipe data yang dibentuk dari tipe data lain (ex: string, array) dan memiliki method didalamnya 
+
+type explicit vs type implicit
+* type explicit: ditulis secara manual tipe datanya saat deklarasi variabel ataupun mengkonversi tipe data
+* type implicit: ditulis secara otomatis tipe datanya saat deklarasi variabel ataupun mengkonversi tipe data
+
+expression vs statement?
+* expression: menghasilkan nilai dari sebuah aksi
+* statement: aksi yang tidak menghasilkan nilai, tetapi jika mengandung expresion menghasilkan nilai
+
+if-else vs switch-case?
+* if-else: percabangan yang memiliki lebih dari 1 kondisi dan lebih banyak nilai dari variabel
+* switch-case: percabangan yang mempunyai 1 kondisi berdasarkan nilai dari 1 variabel
+
+for vs while?
+* for: sudah diketahui jumlah perulangannya, pengecekan kondisi berada diakhir (countable)
+* while: jumlah perulangannya belum diketahui, pengecekan kondisi dimulai diawal (uncountalbe)
+
+procedure vs function vs method?
+* procedure: fungsi yang tidak mengembalikan nilai dan tidak memiliki parameter (void)
+* function: fungsi yang mengembalikan nilai dan memiliki parameter (return)
+* method: fungsi (function) didalam class
